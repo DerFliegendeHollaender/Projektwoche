@@ -1,0 +1,1 @@
+GET https://data.tg.ch/api/records/1.0/search/?dataset=sk-stat-60&q=&rows=10000

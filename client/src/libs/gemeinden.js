@@ -1,0 +1,89 @@
+import React from "react";
+
+export default function comboGemeinden() {
+  return (
+    <>
+      <option value="Frauenfeld">Bitte Gemeinde wählen</option>
+      <option value="Aadorf">Aadorf</option>
+      <option value="Affeltrangen">Affeltrangen</option>
+      <option value="Altnau">Altnau</option>
+      <option value="Amlikon-Bissegg">Amlikon-Bissegg</option>
+      <option value="Amriswil">Amriswil</option>
+      <option value="Arbon">Arbon</option>
+      <option value="Basadingen-Schlattingen">Basadingen-Schlattingen</option>
+      <option value="Berg">Berg</option>
+      <option value="Berlingen">Berlingen</option>
+      <option value="Bettwiesen">Bettwiesen</option>
+      <option value="Bichelsee-Balterswil">Bichelsee-Balterswil</option>
+      <option value="Birwinken">Birwinken</option>
+      <option value="Bischofszell">Bischofszell</option>
+      <option value="Bottighofen">Bottighofen</option>
+      <option value="Braunau">Braunau</option>
+      <option value="Bussnang">Bussnang</option>
+      <option value="Bürglen">Bürglen</option>
+      <option value="Diessenhofen">Diessenhofen</option>
+      <option value="Dozwil">Dozwil</option>
+      <option value="Egnach">Egnach</option>
+      <option value="Erlen">Erlen</option>
+      <option value="Ermatingen">Ermatingen</option>
+      <option value="Eschenz">Eschenz</option>
+      <option value="Eschlikon">Eschlikon</option>
+      <option value="Felben-Wellhausen">Felben-Wellhausen</option>
+      <option value="Fischingen">Fischingen</option>
+      <option value="Frauenfeld">Frauenfeld</option>
+      <option value="Gachnang">Gachnang</option>
+      <option value="Gottlieben">Gottlieben</option>
+      <option value="Güttingen">Güttingen</option>
+      <option value="Hauptwil-Gottshaus">Hauptwil-Gottshaus</option>
+      <option value="Hefenhofen">Hefenhofen</option>
+      <option value="Herdern">Herdern</option>
+      <option value="Hohentannen">Hohentannen</option>
+      <option value="Homburg">Homburg</option>
+      <option value="Horn">Horn</option>
+      <option value="Hüttlingen">Hüttlingen</option>
+      <option value="Hüttwilen">Hüttwilen</option>
+      <option value="Kemmental">Kemmental</option>
+      <option value="Kesswil">Kesswil</option>
+      <option value="Kradolf-Schönenberg">Kradolf-Schönenberg</option>
+      <option value="Kreuzlingen">Kreuzlingen</option>
+      <option value="Langrickenbach">Langrickenbach</option>
+      <option value="Lengwil">Lengwil</option>
+      <option value="Lommis">Lommis</option>
+      <option value="Mammern">Mammern</option>
+      <option value="Märstetten">Märstetten</option>
+      <option value="Matzingen">Matzingen</option>
+      <option value="Müllheim">Müllheim</option>
+      <option value="Münchwilen">Münchwilen</option>
+      <option value="Münsterlingen">Münsterlingen</option>
+      <option value="Neunforn">Neunforn</option>
+      <option value="Pfyn">Pfyn</option>
+      <option value="Raperswilen">Raperswilen</option>
+      <option value="Rickenbach">Rickenbach</option>
+      <option value="Roggwil">Roggwil</option>
+      <option value="Romanshorn">Romanshorn</option>
+      <option value="Salenstein">Salenstein</option>
+      <option value="Salmsach">Salmsach</option>
+      <option value="Schönholzerswilen">Schönholzerswilen</option>
+      <option value="Schlatt">Schlatt</option>
+      <option value="Sirnach">Sirnach</option>
+      <option value="Sommeri">Sommeri</option>
+      <option value="Steckborn">Steckborn</option>
+      <option value="Stettfurt">Stettfurt</option>
+      <option value="Sulgen">Sulgen</option>
+      <option value="Tägerwilen">Tägerwilen</option>
+      <option value="Thundorf">Thundorf</option>
+      <option value="Tobel-Tägerschen">Tobel-Tägerschen</option>
+      <option value="Uesslingen-Buch">Uesslingen-Buch</option>
+      <option value="Uttwil">Uttwil</option>
+      <option value="Wäldi">Wäldi</option>
+      <option value="Wagenhausen">Wagenhausen</option>
+      <option value="Wängi">Wängi</option>
+      <option value="Warth-Weiningen">Warth-Weiningen</option>
+      <option value="Weinfelden">Weinfelden</option>
+      <option value="Wigoltingen">Wigoltingen</option>
+      <option value="Wilen">Wilen</option>
+      <option value="Wuppenau">Wuppenau</option>
+      <option value="Zihlschlacht-Sitterdorf">Zihlschlacht-Sitterdorf</option>
+    </>
+  );
+}
