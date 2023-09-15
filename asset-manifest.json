@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea53569f.css",
-    "main.js": "/static/js/main.6a1bfa09.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/map-tg.svg": "/static/media/map-tg.bea4248610dd777f405ef8a65db7bebc.svg",
-    "index.html": "/index.html",
-    "main.ea53569f.css.map": "/static/css/main.ea53569f.css.map",
-    "main.6a1bfa09.js.map": "/static/js/main.6a1bfa09.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/Projektwoche/static/css/main.ea53569f.css",
+    "main.js": "/Projektwoche/static/js/main.7a70f1b7.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Projektwoche/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/map-tg.svg": "/Projektwoche/static/media/map-tg.bea4248610dd777f405ef8a65db7bebc.svg",
+    "index.html": "/Projektwoche/index.html",
+    "main.ea53569f.css.map": "/Projektwoche/static/css/main.ea53569f.css.map",
+    "main.7a70f1b7.js.map": "/Projektwoche/static/js/main.7a70f1b7.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Projektwoche/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea53569f.css",
-    "static/js/main.6a1bfa09.js"
+    "static/js/main.7a70f1b7.js"
   ]
 }
